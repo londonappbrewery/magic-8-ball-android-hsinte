@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Magic Eight Ball</string>
+    <string name="title">求神問卜</string>
+    <string name="title_tip">請先在心裡默唸問題</string>
+    <string name="qusition_mark">？</string>
+    <string name="do_ask">問問</string>
+    <string name="ans1">這是必然</string>
+    <string name="ans2">肯定是的</string>
+    <string name="ans3">是的</string>
+    <string name="ans4">再試試</string>
+    <string name="ans5">待會再問</string>
+    <string name="ans6">專心再問一遍</string>
+    <string name="ans7">不</string>
+    <string name="ans8">不太好</string>
+    <string name="ans9">想的美</string>
 </resources>
